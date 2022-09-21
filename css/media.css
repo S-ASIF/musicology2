@@ -1,0 +1,135 @@
+/* Medium Device  */
+@media (min-width:768px) and (max-width:992px){
+    /* Dance part Start  */
+    #box{
+        width: 30% !important;
+    }
+    #box-writting p{
+        width: 100% !important;
+    }
+    /* Dance part End */
+    /* Price Part Start */
+    #price-box{
+        width: 30% !important;
+    }
+    #price-writting p{
+        width: 100% !important;
+    }
+    /* Price Part End */
+    
+    /* Name Part Start    */
+    .name-writting-part p{
+        width: 50% !important;
+        margin: auto !important;
+    }
+    /* Name Part End   */
+    /* search Part Start  */
+    .search-part p{
+        width: 60% !important;
+        margin: auto !important;
+        padding: 20px 0px;
+    }
+    .search-part #input{
+        width: 60% !important;
+        margin: auto !important;
+    }
+    /* search Part End */
+    /* Footer Part Start */
+    
+
+    /* Footer Part End */
+}
+
+
+
+/* Dekstop version */
+@media (min-width:993px) and (max-width:2800px){
+    /* Header Part  */
+    .hero-part{
+        padding: 200px 100px;
+    }
+    #hero-btn{
+        width: 50% !important;
+    }
+    /* Dance part Start */
+    .dance-writting-part p{
+        width: 50% !important;
+    }
+    #box-writting p{
+        width: 80% !important;
+        margin: auto;
+    }
+    /* Dance part End */
+    /* Price part Start */
+
+    #price-writting p{
+        width: 80% !important;
+        margin: auto;
+    }
+    #price-writting .btn{
+        width: 50%;
+        margin-top: 20px;
+        padding: 0;
+    }
+    .price-box-part{
+        justify-content: center;
+        align-items: center;
+    }
+    /* Price part End*/
+    /* About Part Start */
+    #about-part{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .about-writting-part{
+        padding: 0 !important;
+        padding-left: 50px !important;
+    }
+    .about-writting-part h1{
+        font-size: 40px !important;
+        padding-bottom: 10px; 
+    }
+    .about-writting-part p{
+        width: 80% !important;
+    }
+    #image{
+        padding: 0 !important;
+    }
+    .about-writting-part .btn{
+        padding: 5px 50px;
+    }
+    /* About Part End */
+    /* STATISTIC PART START */
+    .statistic-writting-part{
+        padding: 100px;
+    }
+    .statistic-writting-part .pra{
+        width: 50% !important;
+        margin: auto;
+    }
+
+ /* STATISTIC PART END  */
+/* Name Part Start */
+.name-writting-part{
+    top: 60% !important;
+}
+.name-writting-part p{
+    width: 50% !important;
+    margin: auto;
+}
+/* Name Part End */
+/* SEARCH PART START */
+.search-part{
+    padding: 100px 0px !important;
+}
+.search-part P{
+    width: 50% !important;
+    margin: auto;
+    padding: 30px 0px !important;
+}
+.search-part #input{
+    width: 40%;
+    margin: auto !important;
+}
+/* SEARCH PART END */
+}    

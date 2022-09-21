@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+/* Header part Start*/
+#search-btn{
+    background-color: #e8631c;
+    border: none;
+}
+#search-btn:active{
+    box-shadow: 0px 0px 10px 0px #e8631c;
+}
+.hero-part{
+    background: url(../image/background-image.png) no-repeat center;
+    background-size: cover;
+    padding:  0px;
+}
+
+#hero-btn{
+    background-color:#e8631c;
+    border: none;
+    
+}
+#hero-btn:hover {
+    background-color: #e8631c;
+}
+
+/* Header part end*/
+/* Dance Tour part   */
+#dance{
+    background-color: #e8631c;
+    background: url(../image/background-2.png) no-repeat center;
+    background-size: cover;
+}
+#box{
+    background-color: #303030;
+    padding: 0;
+}
+.dance-box-part{
+    justify-content: center;
+    align-items: center;
+}
+
+ /* Price Part Start  */
+    #price{
+        background: url(../image/background-image-3.png) no-repeat center;
+        background-size: cover;
+    }
+    .price-box-part{
+        justify-content: center;
+    }
+    #price-box{
+        background-color: #e8631c;
+        padding: 0;
+        padding-top: 20px;
+        margin-top: 50px;
+    }
+    #price-writting h1{
+        font-weight: bold;
+    }
+    
+    #icon-img{
+        width: 30%;
+        margin: auto;
+    }
+    #price-writting .btn{
+        padding: 0px 50px;
+    }
+    /* About Part Start  */
+    #about{
+        background: url(../image/background4.png) no-repeat center;
+        background-size: cover;
+    }
+    .about-writting-part{
+        padding: 10px !important;
+        padding-left: 20px !important;
+    }
+    .about-writting-part p{
+        line-height: 20px;
+        
+    }
+    #about1{
+        background: url(../image/digne2.png) no-repeat center;
+        background-size: cover;
+    }
+    #image{
+        padding: 0 !important;
+    }
+
+ /* Price Part end   */
+/* NAME PART START */
+
+.name-writting-part{
+    top: 50%;
+}
+/* NAME PART END */
+/* SEARCH PART START*/
+#search{
+    background: url(../image/bacgroun_6.png) no-repeat center;
+    background-size: cover;
+    padding: 50px 0px;
+}
+
+/* SEARCH PART END  */
+
+
+/* FOOTER PART START  */
+#footer{
+    background-color: #303030;
+    
+}
+.footer-part a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 10px !important;
+}
+.musicology-ditails a i{
+    background-color: #fff;
+    color: #000;
+    border-radius: 50%;
+    width: 42px;
+    font-size: 30px;
+    height: 40px;
+    padding: 5px;
+    text-align: center;
+}
+.musicology-ditails a i:hover{
+    opacity: 0.5;
+    transition: ease-in-out 0.6s;
+}
+.footer-part a p:hover{
+    opacity: 0.5;
+    transition: ease-in-out 0.6s;
+    color: #fff;
+}
+ /* FOOTER PART END  */
+
